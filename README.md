@@ -12,7 +12,7 @@ bundle exec rspec
 `ruby main.rb 100 50 100`
 
 ## Definition
-ruby main.rb cols rows steps
+`ruby main.rb cols rows steps`
 
 Board requires 3 params cols, rows, steps
 Cols :Integer = number of columns for the matrix, Default to 50
